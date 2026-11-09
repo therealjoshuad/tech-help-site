@@ -1,7 +1,7 @@
 {
   // Optional: only needed if you deploy with Workers static assets (wrangler deploy).
   // If you connect the GitHub repo through the Cloudflare dashboard as a Pages project, you can ignore this file.
-  "name": "code-check",
+  "name": "tech-help-site",
   "compatibility_date": "2026-11-01",
   "assets": {
     "directory": "./public"
